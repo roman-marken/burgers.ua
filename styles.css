@@ -570,4 +570,8 @@ button{
     .number-item{
         font-size: 23px;
     }
+    .history-images{
+        display: block;
+        width: auto;
+    }
 }
