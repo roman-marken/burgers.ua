@@ -573,9 +573,9 @@ button{
     .menu-items{
         display: block;
         justify-content: center;
-        width: 100%;
-        margin-top: 30px;
-        padding-bottom: 20px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 30px;
     }
     .cook-content img{
         display: block;
