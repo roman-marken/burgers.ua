@@ -577,4 +577,8 @@ button{
         margin-top: 30px;
         padding-bottom: 20px;
     }
+    .cook-content img{
+        display: block;
+        justify-content: center;
+    }
 }
