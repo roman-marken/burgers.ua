@@ -570,4 +570,11 @@ button{
     .number-item{
         font-size: 23px;
     }
+    .menu-items{
+        display: block;
+        justify-content: center;
+        width: 100%;
+        margin-top: 30px;
+        padding-bottom: 20px;
+    }
 }
